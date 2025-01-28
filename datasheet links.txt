@@ -1,0 +1,10 @@
+https://www.kaggle.com/datasets/vinayakshanawad/ships-dataset
+
+
+https://www.kaggle.com/datasets/kunalgupta2616/boat-types-recognition
+
+
+https://www.kaggle.com/datasets/oleksandershevchenko/ship-classification-dataset
+
+
+https://www.kaggle.com/datasets/chetan0361/ship-dataset-with-annotations
